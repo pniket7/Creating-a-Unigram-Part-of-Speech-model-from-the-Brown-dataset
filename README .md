@@ -9,6 +9,9 @@
 - It uses the Brown corpus for training and testing the model.
 - The goal of this project is to train a model that can accurately assign a part of speech tag to each word in a given sentence.
 
+**3.DATASET:**
+- You can Download the dataset here: https://www.kaggle.com/datasets/nltkdata/brown-corpus
+
 **3. FEATURES:**
 
 - Loads the Brown corpus using the PlaintextCorpusReader in NLTK.
