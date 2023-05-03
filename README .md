@@ -12,7 +12,7 @@
 **3.DATASET:**
 - You can Download the dataset here: https://www.kaggle.com/datasets/nltkdata/brown-corpus
 
-**3. FEATURES:**
+**4. FEATURES:**
 
 - Loads the Brown corpus using the PlaintextCorpusReader in NLTK.
 - Performs part-of-speech tagging using the UnigramTagger in NLTK.
@@ -20,7 +20,7 @@
 - Calculates the accuracy of the model using the evaluate method provided by the UnigramTagger in NLTK.
 - Tests the model on a sample sentence and prints the tagged tokens.
 
-**4. USAGE:**
+**5. USAGE:**
 
 - To use this code, you need to have NLTK and scikit-learn installed in your environment.
 - Load the Brown corpus using the PlaintextCorpusReader in NLTK.
@@ -31,11 +31,11 @@
 - To tag a new sentence, tokenize it using the word\_tokenize() function in NLTK, and then use the trained model to tag each token.
 - Accuracy obtained=68.87%
 
-**5. LICENSE:**
+**6. LICENSE:**
 
 - This project is licensed under the MIT LICENSE.
 
-**6.** **CONTACT INFORMATION:**
+**7.** **CONTACT INFORMATION:**
 
 Name- Niket Virendra Patil
 
